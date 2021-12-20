@@ -1,4 +1,4 @@
-module github.com/jeoshaw/adguardhome-homekit
+module github.com/joeshaw/adguardhome-homekit
 
 go 1.17
 
